@@ -1,4 +1,4 @@
-import java.util.Date*;
+import java.util.*;
 public class systemtime {
     public static void main(String[]args){
         systemtime time = new systemtime ( "HH:MM:SS" );
